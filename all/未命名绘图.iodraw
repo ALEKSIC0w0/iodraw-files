@@ -14,7 +14,7 @@
           <mxGeometry x="1680" y="359" width="49" height="190" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-35" value="预订车辆" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="359" width="49" height="170" as="geometry" />
+          <mxGeometry x="1770" y="359" width="49" height="121" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-36" value="支付/取消订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1861" y="359" width="49" height="125" as="geometry" />
@@ -397,13 +397,6 @@
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-152" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-33" target="OOAIfnGAg7NGRrNu7tDg-33">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-153" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-35" target="OOAIfnGAg7NGRrNu7tDg-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1794" y="490" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
