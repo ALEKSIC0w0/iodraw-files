@@ -73,16 +73,6 @@
             <mxPoint x="1977.3999999999992" y="259" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-51" value="普通用户" style="startArrow=none;endArrow=block;exitX=0.47;exitY=0.98;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2047.8000000000002" y="259" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-52" value="普通用户" style="startArrow=none;endArrow=block;exitX=0.47;exitY=0.98;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2118.2000000000003" y="259" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-55" value="管理员" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -426,9 +416,6 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-140" value="个人信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-137">
           <mxGeometry x="393" y="71" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-150" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-144" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1790" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -443,9 +430,6 @@
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-146" value="共享汽车租赁系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="40" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-151" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-37" target="OOAIfnGAg7NGRrNu7tDg-37">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
