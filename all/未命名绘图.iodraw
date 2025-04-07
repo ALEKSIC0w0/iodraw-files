@@ -993,7 +993,7 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-425" value="数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4283" y="4757" width="176" height="416" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-426" value="持久层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-426" value="持久层" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="4006" y="4700" width="227" height="484" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-427" value="业务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
