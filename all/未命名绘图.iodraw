@@ -393,7 +393,7 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-162" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-44" target="OOAIfnGAg7NGRrNu7tDg-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-164" value="管理车辆信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-164" value="管理用户信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2220" y="361" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
