@@ -5,25 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-31" value="普通用户注册/登录" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="359" width="49" height="121" as="geometry" />
+          <mxGeometry x="1500" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-33" value="浏览可用车辆列表" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="360" width="49" height="120" as="geometry" />
+          <mxGeometry x="1590" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-34" value="查看车辆健康评分" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="359" width="49" height="121" as="geometry" />
+          <mxGeometry x="1680" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-35" value="预订车辆" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="359" width="49" height="121" as="geometry" />
+          <mxGeometry x="1770" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-36" value="支付/取消订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1861" y="359" width="49" height="121" as="geometry" />
+          <mxGeometry x="1860" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-38" value="归还车辆" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="360" width="49" height="125" as="geometry" />
+          <mxGeometry x="1950" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-39" value="查看订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2043" y="360" width="49" height="125" as="geometry" />
+          <mxGeometry x="2040" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-41" value="管理员审核归还" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2696.5" y="269.5" width="49" height="174" as="geometry" />
