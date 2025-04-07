@@ -407,9 +407,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-197" value="用户" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2734" y="2440" width="56" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-198" value="账户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1485" y="2524" width="125" height="49" as="geometry" />
         </mxCell>
@@ -461,32 +458,36 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-214" value="联系客服" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
           <mxGeometry x="3545" y="2623" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-215" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.53;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-197" target="OOAIfnGAg7NGRrNu7tDg-198">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-215" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.53;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-198">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1548" y="2499" />
             </Array>
+            <mxPoint x="2734" y="2458.0199999999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-216" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-197" target="OOAIfnGAg7NGRrNu7tDg-199">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-216" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-199">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2403" y="2499" />
             </Array>
+            <mxPoint x="2734" y="2460.399999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-217" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-197" target="OOAIfnGAg7NGRrNu7tDg-200">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-217" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-200">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3225" y="2499" />
             </Array>
+            <mxPoint x="2790" y="2459.428571428571" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-218" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.54;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-197" target="OOAIfnGAg7NGRrNu7tDg-201">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-218" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.54;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-201">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3608" y="2499" />
             </Array>
+            <mxPoint x="2790" y="2458.387755102041" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-219" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-198" target="OOAIfnGAg7NGRrNu7tDg-202">
