@@ -475,6 +475,12 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-145" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2163" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-146" target="OOAIfnGAg7NGRrNu7tDg-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-146" target="OOAIfnGAg7NGRrNu7tDg-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-146" value="共享汽车租赁系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="40" width="200" height="60" as="geometry" />
         </mxCell>
