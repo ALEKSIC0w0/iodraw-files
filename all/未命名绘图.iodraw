@@ -57,6 +57,7 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-46" value="普通用户/管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1790" y="220" />
               <mxPoint x="990" y="296" />
             </Array>
             <mxPoint x="1973" y="240.8699999999999" as="sourcePoint" />
@@ -475,7 +476,7 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-145" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2163" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-146" target="OOAIfnGAg7NGRrNu7tDg-144">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-147" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-146" target="OOAIfnGAg7NGRrNu7tDg-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-148" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-146" target="OOAIfnGAg7NGRrNu7tDg-145">
