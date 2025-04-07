@@ -1014,10 +1014,10 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-432" value="角色与功能" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="3094" y="5153" width="353" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-433" value="普通用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-432">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-433" value="普通用户" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-432">
           <mxGeometry x="43" y="46" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-434" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-432">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-434" value="管理员" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-432">
           <mxGeometry x="217" y="46" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-435" value="车辆浏览、预订" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
