@@ -25,6 +25,9 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-39" value="查看订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2040" y="360" width="50" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-163" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-41" target="OOAIfnGAg7NGRrNu7tDg-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-41" value="管理员审核归还" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2160" y="360" width="50" height="120" as="geometry" />
         </mxCell>
@@ -32,10 +35,10 @@
           <mxGeometry x="2277" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-43" value="管理订单信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2393" y="358" width="50" height="120" as="geometry" />
+          <mxGeometry x="2393" y="362" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-44" value="生成统计报表" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2510" y="355" width="50" height="120" as="geometry" />
+          <mxGeometry x="2510" y="361" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-59" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="879" y="400" width="58" height="34" as="geometry" />
