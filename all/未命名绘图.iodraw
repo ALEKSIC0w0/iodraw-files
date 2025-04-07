@@ -222,44 +222,11 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-98" value="AdminFeatures[&amp;quot;管理员功能&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-97">
           <mxGeometry x="43" y="46" width="1111" height="1283" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-99" value="SystemManagement[&amp;quot;系统管理&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-98">
-          <mxGeometry x="423" y="43" width="282" height="317" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-100" value="系统配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-99">
-          <mxGeometry x="87" y="43" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-101" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-99">
-          <mxGeometry x="87" y="142" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-102" value="车辆位置管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-99">
-          <mxGeometry x="71" y="241" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-103" value="Statistics[&amp;quot;统计分析&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-98">
-          <mxGeometry x="275" y="410" width="578" height="174" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-104" value="生成报表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-103">
-          <mxGeometry x="43" y="71" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-105" value="使用情况分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-103">
-          <mxGeometry x="218" y="71" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-106" value="财务统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-103">
-          <mxGeometry x="426" y="71" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-107" value="AdminOrderManagement[&amp;quot;订单管理&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-98">
           <mxGeometry x="171" y="634" width="785" height="174" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-108" value="管理订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-107">
           <mxGeometry x="43" y="71" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-109" value="审核归还申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-107">
-          <mxGeometry x="218" y="71" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-110" value="处理支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-107">
-          <mxGeometry x="425" y="71" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-111" value="处理取消请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-107">
-          <mxGeometry x="600" y="71" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-112" value="VehicleManagement[&amp;quot;车辆管理&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-98">
           <mxGeometry x="58" y="858" width="1011" height="174" as="geometry" />
@@ -267,26 +234,8 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-113" value="车辆信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-112">
           <mxGeometry x="43" y="71" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-114" value="添加新车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-112">
-          <mxGeometry x="250" y="71" width="142" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-115" value="编辑车辆信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-112">
-          <mxGeometry x="442" y="71" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-116" value="删除车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-112">
-          <mxGeometry x="650" y="71" width="126" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-117" value="管理健康评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-112">
           <mxGeometry x="826" y="71" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-118" value="AdminAccount[&amp;quot;管理员账户&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-98">
-          <mxGeometry x="362" y="1082" width="404" height="174" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-119" value="管理员登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-118">
-          <mxGeometry x="43" y="71" width="142" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-120" value="管理员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-118">
-          <mxGeometry x="235" y="71" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-121" value="UserFeatures[&amp;quot;普通用户功能&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-97">
           <mxGeometry x="1204" y="158" width="1238" height="1059" as="geometry" />
