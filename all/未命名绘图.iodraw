@@ -29,10 +29,10 @@
           <mxGeometry x="2140" y="359" width="49" height="174" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-42" value="管理车辆信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="367" width="49" height="158" as="geometry" />
+          <mxGeometry x="2257" y="367" width="49" height="158" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-43" value="管理订单信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2370" y="359" width="49" height="158" as="geometry" />
+          <mxGeometry x="2373" y="359" width="49" height="158" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-44" value="生成统计报表" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2490" y="360" width="49" height="157" as="geometry" />
