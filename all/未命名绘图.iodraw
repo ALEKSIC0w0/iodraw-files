@@ -103,7 +103,7 @@
             <mxPoint x="2047.8000000000002" y="259" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-52" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-38">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-52" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.98;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2171" y="296" />
@@ -114,6 +114,7 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-53" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="2160" y="250" />
               <mxPoint x="2346" y="296" />
             </Array>
             <mxPoint x="2188.600000000001" y="259" as="sourcePoint" />
