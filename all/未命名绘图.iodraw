@@ -1023,13 +1023,13 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-435" value="车辆浏览、预订" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2821" y="4715" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-436" value="订单管理、归还" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-436" value="订单管理、归还" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2820" y="4814" width="174" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-437" value="车辆管理、审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-437" value="车辆管理、审核" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2821" y="4913" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-438" value="报表统计、配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-438" value="报表统计、配置" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2820" y="5012" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-439" value="Vue + Element Plus" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
