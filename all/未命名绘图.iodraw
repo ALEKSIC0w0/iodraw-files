@@ -443,6 +443,9 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-208" value="查看健康评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2428" y="2623" width="158" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-233" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-209" target="OOAIfnGAg7NGRrNu7tDg-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-209" value="预订车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2636" y="2623" width="126" height="49" as="geometry" />
         </mxCell>
@@ -573,6 +576,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-232" value="预订车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2842" y="2623" width="126" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
