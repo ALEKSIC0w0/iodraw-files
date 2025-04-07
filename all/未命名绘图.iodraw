@@ -31,17 +31,17 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-39" value="查看订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2283" y="332" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-41" value="管理员审核归还" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2634" y="332" width="174" height="49" as="geometry" />
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-41" value="管理员审核归还" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2696.5" y="269.5" width="49" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-42" value="管理车辆信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2858" y="332" width="158" height="49" as="geometry" />
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-42" value="管理车辆信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2912.5" y="277.5" width="49" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-43" value="管理订单信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3066" y="332" width="158" height="49" as="geometry" />
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-43" value="管理订单信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="3120.5" y="277.5" width="49" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-44" value="生成统计报表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3274" y="332" width="157" height="49" as="geometry" />
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-44" value="生成统计报表" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="3328" y="278" width="49" height="157" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-45" value="普通用户" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-31">
           <mxGeometry relative="1" as="geometry">
@@ -81,15 +81,6 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-52" value="普通用户" style="startArrow=none;endArrow=block;exitX=0.47;exitY=0.98;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2118.2000000000003" y="259" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-54" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.477;exitY=0.953;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2521" y="296" />
-            </Array>
-            <mxPoint x="2193" y="249.69000000000005" as="sourcePoint" />
-            <mxPoint x="2521" y="332" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-55" value="管理员" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-41">
