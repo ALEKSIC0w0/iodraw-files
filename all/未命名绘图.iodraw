@@ -1008,10 +1008,10 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-430" value="表现层" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="3073" y="4680" width="403" height="419" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-431" value="功能列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-431" value="功能列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2795" y="4680" width="224" height="416" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-432" value="角色与功能" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-432" value="角色与功能" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="3094" y="5153" width="353" height="124" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-433" value="普通用户" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-432">
