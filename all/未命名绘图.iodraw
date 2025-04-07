@@ -1020,7 +1020,7 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-434" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-432">
           <mxGeometry x="217" y="46" width="109" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-435" value="车辆浏览、预订" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-435" value="车辆浏览、预订" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2821" y="4715" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-436" value="订单管理、归还" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -1180,6 +1180,12 @@
               <mxPoint x="3705" y="5114" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-468" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3122" y="5199" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-469" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-434" target="OOAIfnGAg7NGRrNu7tDg-468">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
