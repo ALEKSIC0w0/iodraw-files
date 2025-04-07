@@ -417,7 +417,7 @@
           <mxGeometry x="2340" y="2524" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-200" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3162" y="2524" width="126" height="49" as="geometry" />
+          <mxGeometry x="3290" y="2770" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-201" value="用户支持" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3546" y="2524" width="125" height="49" as="geometry" />
@@ -450,7 +450,7 @@
           <mxGeometry x="2812" y="2623" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-211" value="支付订单" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2987" y="2623" width="125" height="49" as="geometry" />
+          <mxGeometry x="3546" y="2840" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-212" value="取消订单" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
           <mxGeometry x="3533" y="2770" width="125" height="49" as="geometry" />
