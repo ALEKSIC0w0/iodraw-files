@@ -216,87 +216,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-97" value="System[&amp;quot;共享汽车租赁管理系统&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="2290" width="2469" height="1358" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-98" value="AdminFeatures[&amp;quot;管理员功能&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-97">
-          <mxGeometry x="43" y="46" width="1111" height="1283" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-107" value="AdminOrderManagement[&amp;quot;订单管理&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-98">
-          <mxGeometry x="171" y="634" width="785" height="174" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-108" value="管理订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-107">
-          <mxGeometry x="43" y="71" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-112" value="VehicleManagement[&amp;quot;车辆管理&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-98">
-          <mxGeometry x="58" y="858" width="1011" height="174" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-113" value="车辆信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-112">
-          <mxGeometry x="43" y="71" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-117" value="管理健康评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-112">
-          <mxGeometry x="826" y="71" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-121" value="UserFeatures[&amp;quot;普通用户功能&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-97">
-          <mxGeometry x="1204" y="158" width="1238" height="1059" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-122" value="UserSupport[&amp;quot;用户支持&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-121">
-          <mxGeometry x="502" y="43" width="251" height="317" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-123" value="联系客服" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-122">
-          <mxGeometry x="71" y="43" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-124" value="反馈系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-122">
-          <mxGeometry x="71" y="142" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-125" value="常见问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-122">
-          <mxGeometry x="71" y="241" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-126" value="OrderManagement[&amp;quot;订单管理&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-121">
-          <mxGeometry x="323" y="410" width="609" height="174" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-127" value="查看我的订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-126">
-          <mxGeometry x="43" y="71" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-128" value="取消订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-126">
-          <mxGeometry x="250" y="71" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-129" value="历史订单查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-126">
-          <mxGeometry x="425" y="71" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-130" value="RentalProcess[&amp;quot;租车流程&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-121">
-          <mxGeometry x="58" y="634" width="1138" height="174" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-131" value="浏览可用车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-130">
-          <mxGeometry x="43" y="71" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-132" value="筛选车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-130">
-          <mxGeometry x="251" y="71" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-133" value="查看健康评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-130">
-          <mxGeometry x="427" y="71" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-134" value="预订车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-130">
-          <mxGeometry x="635" y="71" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-135" value="支付订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-130">
-          <mxGeometry x="811" y="71" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-136" value="归还车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-130">
-          <mxGeometry x="986" y="71" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-137" value="UserAccount[&amp;quot;账户管理&amp;quot;]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-121">
-          <mxGeometry x="338" y="858" width="578" height="174" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-138" value="用户注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-137">
-          <mxGeometry x="43" y="71" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-139" value="用户登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-137">
-          <mxGeometry x="218" y="71" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-140" value="个人信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OOAIfnGAg7NGRrNu7tDg-137">
-          <mxGeometry x="393" y="71" width="158" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-155" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -356,6 +275,137 @@
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-164" value="管理用户信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2220" y="361" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-170" value="用户" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2533" y="2290" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-171" value="用户注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="2374" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-172" value="用户登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="2374" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-173" value="浏览车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="2374" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-174" value="筛选车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1906" y="2374" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-175" value="查看车辆详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2082" y="2374" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-176" value="查看健康评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="2374" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-177" value="预订车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2498" y="2374" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-178" value="支付订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2674" y="2374" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-179" value="取消订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2849" y="2374" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-180" value="归还车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3024" y="2374" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-181" value="查看订单历史" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3199" y="2374" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-182" value="联系客服" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3407" y="2374" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-183" value="个人信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3583" y="2374" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-184" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.53;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-171">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1443" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-185" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.54;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-172">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1618" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-186" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.54;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-173">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1793" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-187" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1969" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-188" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-175">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2161" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-189" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-176">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2369" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-190" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-191" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-178">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2737" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-192" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-179">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2912" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-193" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-180">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3087" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-194" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.55;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-181">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3278" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-195" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.54;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3470" y="2349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-196" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.53;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-170" target="OOAIfnGAg7NGRrNu7tDg-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3662" y="2349" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
