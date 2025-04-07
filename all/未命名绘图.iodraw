@@ -47,7 +47,7 @@
           <mxGeometry x="922" y="583" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-62" value="查看车辆详情和健康评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="866" y="705" width="238" height="49" as="geometry" />
+          <mxGeometry x="866" y="670" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-63" value="是否预订?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="848" y="804" width="120" height="120" as="geometry" />
