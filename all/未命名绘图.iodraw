@@ -1032,7 +1032,7 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-438" value="报表统计、配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2820" y="5012" width="174" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-439" value="Vue + Element Plus" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-439" value="Vue + Element Plus" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="3171" y="4913" width="198" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-440" value="用户界面组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
