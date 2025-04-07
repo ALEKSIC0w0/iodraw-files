@@ -59,11 +59,11 @@
             <mxPoint x="1493" y="49.889999999999986" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-30" value="共享汽车租赁管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1973" y="210" width="220" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-31" value="普通用户注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="720" y="332" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-30" value="共享汽车租赁管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1973" y="210" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-32" value="用户登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="927" y="332" width="125" height="49" as="geometry" />
@@ -72,7 +72,7 @@
           <mxGeometry x="1102" y="332" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-34" value="查看车辆健康评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="450" width="190" height="49" as="geometry" />
+          <mxGeometry x="1340" y="332" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-35" value="预订车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1582" y="332" width="126" height="49" as="geometry" />
