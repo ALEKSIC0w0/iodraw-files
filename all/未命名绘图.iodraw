@@ -64,27 +64,18 @@
             <mxPoint x="1973" y="241.8499999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-48" value="普通用户" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-34">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-48" value="普通用户" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-34">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1437" y="296" />
-            </Array>
             <mxPoint x="1850" y="210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-49" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.487;exitY=0.953;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-35">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-49" value="普通用户" style="startArrow=none;endArrow=block;exitX=0.487;exitY=0.953;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-35">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1645" y="296" />
-            </Array>
             <mxPoint x="1973" y="249.69000000000005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-50" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-36">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-50" value="普通用户" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-36">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1821" y="296" />
-            </Array>
             <mxPoint x="1977.3999999999992" y="259" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
