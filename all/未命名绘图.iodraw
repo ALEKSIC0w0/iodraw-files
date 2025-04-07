@@ -453,10 +453,10 @@
           <mxGeometry x="2987" y="2623" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-212" value="取消订单" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="3162" y="2623" width="125" height="49" as="geometry" />
+          <mxGeometry x="3533" y="2770" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-213" value="查看订单历史" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="3337" y="2623" width="158" height="49" as="geometry" />
+          <mxGeometry x="3513" y="2700" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-214" value="联系客服" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="1">
           <mxGeometry x="3545" y="2623" width="126" height="49" as="geometry" />
