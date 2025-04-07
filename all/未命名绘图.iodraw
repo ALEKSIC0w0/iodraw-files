@@ -990,7 +990,7 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-424" value="服务端: Server, 即服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3755" y="4660" width="729" height="583" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-425" value="数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-425" value="数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="4283" y="4757" width="176" height="416" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-426" value="持久层" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
@@ -1005,7 +1005,7 @@
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-429" value="客户端: Browser, 即浏览器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2770" y="4660" width="727" height="652" as="geometry" />
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-430" value="表现层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-430" value="表现层" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="3073" y="4680" width="403" height="419" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-431" value="功能列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
