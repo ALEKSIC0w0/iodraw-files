@@ -63,7 +63,7 @@
             <mxPoint x="1973" y="240.8699999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-47" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-33">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-47" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1.04;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1197" y="296" />
@@ -71,7 +71,7 @@
             <mxPoint x="1973" y="241.8499999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-48" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="OOAIfnGAg7NGRrNu7tDg-34">
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-48" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.603;exitY=1.053;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-144" target="OOAIfnGAg7NGRrNu7tDg-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1437" y="296" />
