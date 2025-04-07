@@ -29,7 +29,7 @@
           <mxGeometry x="2160" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-42" value="管理车辆信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2277" y="358" width="50" height="120" as="geometry" />
+          <mxGeometry x="2277" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-43" value="管理订单信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2393" y="358" width="50" height="120" as="geometry" />
@@ -385,6 +385,9 @@
           <mxGeometry x="1960" y="50" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-152" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-33" target="OOAIfnGAg7NGRrNu7tDg-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-162" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-44" target="OOAIfnGAg7NGRrNu7tDg-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
