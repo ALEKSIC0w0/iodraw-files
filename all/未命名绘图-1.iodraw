@@ -1214,6 +1214,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-42" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nGmBwLhk57O_qRg1mC6L-39">
+          <mxGeometry x="-0.4232" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-5" value="车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1148.5" y="5488" width="89" height="49" as="geometry" />
         </mxCell>
@@ -1280,6 +1285,11 @@
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-40" target="nGmBwLhk57O_qRg1mC6L-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-43" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nGmBwLhk57O_qRg1mC6L-41">
+          <mxGeometry x="-0.1413" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-40" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1153" y="5420" width="80" height="43" as="geometry" />
