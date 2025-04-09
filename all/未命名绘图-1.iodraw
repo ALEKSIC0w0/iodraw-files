@@ -1209,6 +1209,9 @@
         <mxCell id="nGmBwLhk57O_qRg1mC6L-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1183.4137931034484" y="5450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1193" y="5450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-5" value="车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
