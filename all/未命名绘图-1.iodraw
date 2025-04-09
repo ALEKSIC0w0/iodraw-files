@@ -1305,7 +1305,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nGmBwLhk57O_qRg1mC6L-40" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-40" value="被租用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1153" y="5420" width="80" height="43" as="geometry" />
         </mxCell>
       </root>
