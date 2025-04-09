@@ -1202,7 +1202,7 @@
           <mxGeometry x="750" y="5439" width="131" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-7" value="审核记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1357" y="5340" width="144" height="49" as="geometry" />
+          <mxGeometry x="1391" y="5340" width="144" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-8" value="维护记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1194" y="5470" width="163" height="49" as="geometry" />
@@ -1236,6 +1236,9 @@
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-15" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="5343" width="80" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1277" y="5324" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
