@@ -1219,11 +1219,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nGmBwLhk57O_qRg1mC6L-12" value="1..1" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-4" target="nGmBwLhk57O_qRg1mC6L-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-13" value="1..N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-5" target="nGmBwLhk57O_qRg1mC6L-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1240,7 +1235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-15" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1024" y="5280" width="80" height="43" as="geometry" />
+          <mxGeometry x="1010" y="5343" width="80" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
