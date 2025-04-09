@@ -1199,7 +1199,7 @@
         <mxCell id="nGmBwLhk57O_qRg1mC6L-7" value="审核记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1357" y="5340" width="144" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="nGmBwLhk57O_qRg1mC6L-8" value="MAINTENANCE" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-8" value="维护记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1112" y="5455" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.41;rounded=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-3" target="nGmBwLhk57O_qRg1mC6L-4">
