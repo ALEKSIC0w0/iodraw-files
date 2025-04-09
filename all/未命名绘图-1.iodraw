@@ -1184,10 +1184,10 @@
         <mxCell id="nGmBwLhk57O_qRg1mC6L-2" value="关系说明" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="768" y="5354" width="96" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="nGmBwLhk57O_qRg1mC6L-3" value="USER" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-3" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="931" y="5330" width="97" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="nGmBwLhk57O_qRg1mC6L-4" value="ORDER" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-4" value="用户订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1139" y="5340" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-5" value="CAR" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
