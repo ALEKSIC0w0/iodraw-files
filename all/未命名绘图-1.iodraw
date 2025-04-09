@@ -1202,7 +1202,7 @@
           <mxGeometry x="750" y="5439" width="131" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-7" value="审核记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1391" y="5340" width="144" height="49" as="geometry" />
+          <mxGeometry x="1430" y="5340" width="144" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-8" value="维护记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1194" y="5470" width="163" height="49" as="geometry" />
@@ -1237,11 +1237,24 @@
         <mxCell id="nGmBwLhk57O_qRg1mC6L-15" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="5343" width="80" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-21" target="nGmBwLhk57O_qRg1mC6L-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-25" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nGmBwLhk57O_qRg1mC6L-23">
+          <mxGeometry x="-0.1671" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-21" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1285" y="5343" width="80" height="43" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.075;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-4" target="nGmBwLhk57O_qRg1mC6L-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-24" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nGmBwLhk57O_qRg1mC6L-22">
+          <mxGeometry x="-0.0937" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
