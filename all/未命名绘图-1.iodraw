@@ -1294,7 +1294,7 @@
         <mxCell id="nGmBwLhk57O_qRg1mC6L-26" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1285" y="5491" width="80" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="nGmBwLhk57O_qRg1mC6L-32" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nGmBwLhk57O_qRg1mC6L-32" value="停放" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="5491" width="80" height="43" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-40" target="nGmBwLhk57O_qRg1mC6L-4">
