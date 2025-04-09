@@ -1207,18 +1207,13 @@
           <mxGeometry x="1136.5" y="5488" width="89" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-6" value="车辆位置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="660" y="5439" width="131" height="49" as="geometry" />
+          <mxGeometry x="830" y="5488" width="131" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-7" value="审核记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1430" y="5340" width="144" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-8" value="维护记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1430" y="5488" width="163" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="nGmBwLhk57O_qRg1mC6L-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-6" target="nGmBwLhk57O_qRg1mC6L-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-15" target="nGmBwLhk57O_qRg1mC6L-4">
           <mxGeometry relative="1" as="geometry" />
