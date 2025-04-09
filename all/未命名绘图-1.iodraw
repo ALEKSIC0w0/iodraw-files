@@ -1204,7 +1204,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-5" value="车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="935" y="5439" width="89" height="49" as="geometry" />
+          <mxGeometry x="1140" y="5442" width="89" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-6" value="车辆位置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="5439" width="131" height="49" as="geometry" />
@@ -1214,13 +1214,6 @@
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-8" value="维护记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1427" y="5439" width="163" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="nGmBwLhk57O_qRg1mC6L-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0;entryY=0.94;rounded=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-5" target="nGmBwLhk57O_qRg1mC6L-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1070" y="5414" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="nGmBwLhk57O_qRg1mC6L-6" target="nGmBwLhk57O_qRg1mC6L-5">
           <mxGeometry relative="1" as="geometry">
@@ -1266,7 +1259,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nGmBwLhk57O_qRg1mC6L-26" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1066" y="5442" width="80" height="43" as="geometry" />
+          <mxGeometry x="1280" y="5442" width="80" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
