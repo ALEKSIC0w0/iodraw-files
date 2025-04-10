@@ -1330,7 +1330,7 @@
           <mxGeometry x="926.5" y="6060" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-68" value="检查结果?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="969" y="6150" width="120" height="70" as="geometry" />
+          <mxGeometry x="968" y="6131" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-69" value="通过归还申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="948.5" y="6270" width="158" height="49" as="geometry" />
