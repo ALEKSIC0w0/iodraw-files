@@ -1308,13 +1308,8 @@
         <mxCell id="nGmBwLhk57O_qRg1mC6L-40" value="被租用" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1153" y="5420" width="80" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="JEgfEIHO36YjZbd0bFmI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="5550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-61" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="998.5" y="5600" width="58" height="34" as="geometry" />
+          <mxGeometry x="998.5" y="5601" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-62" value="用户创建订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="949.5" y="5700" width="156" height="49" as="geometry" />
