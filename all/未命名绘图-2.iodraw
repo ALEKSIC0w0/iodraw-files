@@ -1318,7 +1318,7 @@
           <mxGeometry x="2057" y="8217" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-10" value="选择车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1724" y="5850" width="126" height="49" as="geometry" />
+          <mxGeometry x="1616" y="5810" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-11" value="查看车辆详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1705" y="6057" width="158" height="49" as="geometry" />
@@ -1393,6 +1393,13 @@
             <Array as="points">
               <mxPoint x="2158" y="5922" />
               <mxPoint x="2158" y="8192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEgfEIHO36YjZbd0bFmI-34" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-8" target="JEgfEIHO36YjZbd0bFmI-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1784" y="5922" />
             </Array>
           </mxGeometry>
         </mxCell>
