@@ -1347,7 +1347,7 @@
         <mxCell id="JEgfEIHO36YjZbd0bFmI-73" value="计算健康评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="950" y="6308" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="JEgfEIHO36YjZbd0bFmI-74" value="完成订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JEgfEIHO36YjZbd0bFmI-74" value="完成订单并退还押金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="966" y="6378" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-76" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
