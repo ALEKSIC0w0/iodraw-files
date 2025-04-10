@@ -1312,16 +1312,21 @@
           <mxGeometry x="998.5" y="5600" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-62" value="用户创建订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="949.5" y="5660" width="156" height="49" as="geometry" />
+          <mxGeometry x="949.5" y="5700" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="JEgfEIHO36YjZbd0bFmI-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="5800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-63" value="用户支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="965.5" y="5733" width="124" height="49" as="geometry" />
+          <mxGeometry x="966" y="5770" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-64" value="用户使用车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="949.5" y="5810" width="157" height="49" as="geometry" />
+          <mxGeometry x="949.5" y="5845" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-65" value="用户提交归还申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="933" y="5880" width="189" height="49" as="geometry" />
+          <mxGeometry x="933" y="5920" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-66" value="管理员接收归还请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650.5" y="5990" width="206" height="49" as="geometry" />
