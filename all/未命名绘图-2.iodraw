@@ -1330,10 +1330,10 @@
           <mxGeometry x="651" y="6070" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-68" value="检查结果?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="898.5" y="6228" width="120" height="120" as="geometry" />
+          <mxGeometry x="693" y="6160" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-69" value="通过归还申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="783.5" y="6421" width="158" height="49" as="geometry" />
+          <mxGeometry x="625.5" y="6360" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-70" value="拒绝归还" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1019.5" y="6421" width="126" height="49" as="geometry" />
@@ -1389,12 +1389,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JEgfEIHO36YjZbd0bFmI-84" value="通过" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-68" target="JEgfEIHO36YjZbd0bFmI-69">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="862.5" y="6385" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="JEgfEIHO36YjZbd0bFmI-84" value="通过" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-68" target="JEgfEIHO36YjZbd0bFmI-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-85" value="不通过" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-68" target="JEgfEIHO36YjZbd0bFmI-70">
           <mxGeometry relative="1" as="geometry" />
