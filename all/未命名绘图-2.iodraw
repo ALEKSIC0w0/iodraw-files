@@ -1376,12 +1376,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JEgfEIHO36YjZbd0bFmI-81" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-65" target="JEgfEIHO36YjZbd0bFmI-66">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="958.5" y="6005" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="JEgfEIHO36YjZbd0bFmI-81" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-65" target="JEgfEIHO36YjZbd0bFmI-66">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-66" target="JEgfEIHO36YjZbd0bFmI-67">
           <mxGeometry relative="1" as="geometry">
