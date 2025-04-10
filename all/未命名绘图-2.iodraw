@@ -1330,13 +1330,13 @@
           <mxGeometry x="651" y="6070" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-68" value="检查结果?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="693" y="6160" width="120" height="120" as="geometry" />
+          <mxGeometry x="693" y="6160" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-69" value="通过归还申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="625.5" y="6360" width="158" height="49" as="geometry" />
+          <mxGeometry x="560" y="6250" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-70" value="拒绝归还" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1019.5" y="6421" width="126" height="49" as="geometry" />
+          <mxGeometry x="891.5" y="6290" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-71" value="通知用户处理问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1056.5" y="6520" width="190" height="49" as="geometry" />
