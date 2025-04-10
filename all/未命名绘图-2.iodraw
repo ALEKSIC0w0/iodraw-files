@@ -1327,7 +1327,7 @@
           <mxGeometry x="650.5" y="5960" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-67" value="车辆外观与位置检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="651" y="6070" width="205" height="49" as="geometry" />
+          <mxGeometry x="650.5" y="6040" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-68" value="检查结果?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="693" y="6160" width="120" height="70" as="geometry" />
@@ -1348,7 +1348,7 @@
           <mxGeometry x="570" y="6410" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-74" value="完成订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="800.5" y="6718" width="124" height="49" as="geometry" />
+          <mxGeometry x="577" y="6490" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-75" value="退还押金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="799.5" y="6817" width="126" height="49" as="geometry" />
