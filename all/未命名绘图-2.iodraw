@@ -1309,7 +1309,7 @@
           <mxGeometry x="1153" y="5420" width="80" height="43" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-61" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2252" y="6330" width="58" height="34" as="geometry" />
+          <mxGeometry x="998" y="5713" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-62" target="JEgfEIHO36YjZbd0bFmI-64">
           <mxGeometry relative="1" as="geometry" />
@@ -1331,9 +1331,6 @@
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-68" value="检查结果?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="968" y="6131" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JEgfEIHO36YjZbd0bFmI-69" value="通过归还申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="947.5" y="6233" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-70" value="拒绝归还" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1135" y="6201" width="126" height="49" as="geometry" />
@@ -1384,19 +1381,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JEgfEIHO36YjZbd0bFmI-84" value="通过" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-68" target="JEgfEIHO36YjZbd0bFmI-69">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JEgfEIHO36YjZbd0bFmI-84" value="通过" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1026.5" y="6232.999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-85" value="不通过" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-68" target="JEgfEIHO36YjZbd0bFmI-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-86" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.32;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-70" target="JEgfEIHO36YjZbd0bFmI-71">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JEgfEIHO36YjZbd0bFmI-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-69" target="JEgfEIHO36YjZbd0bFmI-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-72" target="JEgfEIHO36YjZbd0bFmI-73">
           <mxGeometry relative="1" as="geometry">
