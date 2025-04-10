@@ -1324,7 +1324,7 @@
           <mxGeometry x="933" y="5920" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-66" value="管理员接收归还请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650.5" y="5960" width="206" height="49" as="geometry" />
+          <mxGeometry x="926" y="5991" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-67" value="车辆外观与位置检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650.5" y="6040" width="205" height="49" as="geometry" />
@@ -1339,7 +1339,7 @@
           <mxGeometry x="891.5" y="6290" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-71" value="通知用户处理问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="892" y="6410" width="190" height="49" as="geometry" />
+          <mxGeometry x="929" y="6410" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-72" value="更新车辆状态和位置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="536" y="6330" width="206" height="49" as="geometry" />
@@ -1366,8 +1366,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JEgfEIHO36YjZbd0bFmI-81" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-65" target="JEgfEIHO36YjZbd0bFmI-66">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JEgfEIHO36YjZbd0bFmI-81" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="JEgfEIHO36YjZbd0bFmI-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="5970" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JEgfEIHO36YjZbd0bFmI-66" target="JEgfEIHO36YjZbd0bFmI-67">
           <mxGeometry relative="1" as="geometry">
