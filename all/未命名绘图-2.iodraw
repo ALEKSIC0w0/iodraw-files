@@ -1345,7 +1345,7 @@
           <mxGeometry x="536" y="6330" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-73" value="计算健康评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="6410" width="158" height="49" as="geometry" />
+          <mxGeometry x="570" y="6410" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JEgfEIHO36YjZbd0bFmI-74" value="完成订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800.5" y="6718" width="124" height="49" as="geometry" />
