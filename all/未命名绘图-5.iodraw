@@ -1249,6 +1249,11 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-1" target="CO1TLyvKyXjXSFeLzIXF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CO1TLyvKyXjXSFeLzIXF-11">
+          <mxGeometry x="-0.0321" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3850" y="5770" as="targetPoint" />
@@ -1290,8 +1295,13 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-14" value="停车地点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3949" y="5890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-16" target="CO1TLyvKyXjXSFeLzIXF-6">
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-16" target="CO1TLyvKyXjXSFeLzIXF-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-21" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CO1TLyvKyXjXSFeLzIXF-20">
+          <mxGeometry x="-0.0009" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-16" value="车辆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3323" y="5890" width="120" height="60" as="geometry" />
