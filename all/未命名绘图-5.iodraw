@@ -1509,10 +1509,10 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-90" value="维护类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3356" y="6228" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-91" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-91" value="维护日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3478" y="6228" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-92" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-92" value="费用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3600" y="6228" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-93" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
