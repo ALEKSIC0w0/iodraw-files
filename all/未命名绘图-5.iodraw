@@ -1343,6 +1343,11 @@
             <mxPoint x="3383.588235294118" y="6040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-35" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CO1TLyvKyXjXSFeLzIXF-31">
+          <mxGeometry x="0.0879" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-16" value="车辆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3323" y="5890" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1357,14 +1362,14 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-17" value="停放" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3693" y="5880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-32" target="CO1TLyvKyXjXSFeLzIXF-33">
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-32" target="CO1TLyvKyXjXSFeLzIXF-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-32" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3343" y="6040" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3510" y="6055" width="120" height="60" as="geometry" />
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-33" value="维护记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3510" y="6050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
