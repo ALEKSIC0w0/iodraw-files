@@ -1264,15 +1264,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-1" target="CO1TLyvKyXjXSFeLzIXF-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3850" y="5770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-26" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CO1TLyvKyXjXSFeLzIXF-12">
-          <mxGeometry x="-0.0673" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-1" target="CO1TLyvKyXjXSFeLzIXF-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-1" value="订单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="3602" y="5620" width="120" height="60" as="geometry" />
@@ -1328,7 +1321,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-14" value="停车地点" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3949" y="5890" width="120" height="60" as="geometry" />
+          <mxGeometry x="3886" y="5890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-16" target="CO1TLyvKyXjXSFeLzIXF-6">
           <mxGeometry relative="1" as="geometry" />
