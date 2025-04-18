@@ -1387,7 +1387,7 @@
           <mxGeometry x="3510" y="6050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-41" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3004" y="5550" width="126" height="80" as="geometry" />
+          <mxGeometry x="3004" y="5540" width="126" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-42" target="CO1TLyvKyXjXSFeLzIXF-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1396,7 +1396,7 @@
           <mxGeometry x="3094" y="5480" width="126" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-43" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="5630" width="126" height="80" as="geometry" />
+          <mxGeometry x="2985" y="5620" width="126" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-44" value="手机号" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2994" y="5700" width="117" height="80" as="geometry" />
