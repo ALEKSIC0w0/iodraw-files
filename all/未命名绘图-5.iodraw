@@ -475,6 +475,9 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-122" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-319" target="OOAIfnGAg7NGRrNu7tDg-329">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-123" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-319" target="OOAIfnGAg7NGRrNu7tDg-330">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-319" value="数据报表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="2453" y="3480" width="49" height="126" as="geometry" />
         </mxCell>
@@ -491,7 +494,7 @@
           <mxGeometry x="1730" y="3810" width="49" height="126" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-325" value="车辆列表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="1850" y="3830" width="49" height="125" as="geometry" />
+          <mxGeometry x="2139.5" y="3770" width="49" height="125" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-326" value="查看订单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="2213" y="3770" width="49" height="155" as="geometry" />
