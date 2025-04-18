@@ -1474,7 +1474,10 @@
           <mxGeometry x="2980" y="5830" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-79" value="品牌/型号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="5890" width="120" height="80" as="geometry" />
+          <mxGeometry x="2980" y="5911" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-80" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="5850" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
