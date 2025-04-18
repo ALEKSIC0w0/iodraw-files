@@ -1252,7 +1252,7 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-4" value="审核记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4050" y="5620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3188" y="5620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
