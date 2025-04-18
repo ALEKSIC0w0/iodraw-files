@@ -461,10 +461,10 @@
           <mxGeometry x="1986" y="3480" width="49" height="130" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-318" value="订单操作" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2187" y="3480" width="49" height="126" as="geometry" />
+          <mxGeometry x="2191" y="3480" width="49" height="126" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-319" value="数据报表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2381" y="3480" width="49" height="126" as="geometry" />
+          <mxGeometry x="2453" y="3480" width="49" height="126" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-321" value="管理员账号" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="1116.5" y="3623.5" width="49" height="142" as="geometry" />
