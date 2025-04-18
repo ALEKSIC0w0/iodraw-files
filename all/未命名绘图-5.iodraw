@@ -503,10 +503,10 @@
           <mxGeometry x="3015.5" y="3810" width="49" height="125" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-332" value="角色配置" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="3143" y="3800" width="49" height="126" as="geometry" />
+          <mxGeometry x="3143" y="3800" width="49" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-333" value="位置管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="3270" y="3800" width="49" height="126" as="geometry" />
+          <mxGeometry x="3246" y="3810" width="49" height="126" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-339" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="OOAIfnGAg7NGRrNu7tDg-316" target="OOAIfnGAg7NGRrNu7tDg-321" edge="1">
           <mxGeometry relative="1" as="geometry">
