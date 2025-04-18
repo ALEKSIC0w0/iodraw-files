@@ -1485,8 +1485,8 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-82" value="租用状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2980" y="6151" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-83" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3030" y="5880" width="120" height="80" as="geometry" />
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-83" value="健康评分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="6232" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
