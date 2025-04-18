@@ -464,7 +464,7 @@
           <mxGeometry x="2226.5" y="3532.5" width="49" height="126" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-319" value="数据报表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2739.5" y="3532.5" width="49" height="126" as="geometry" />
+          <mxGeometry x="2610" y="3590" width="49" height="126" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-320" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="3183" y="3533" width="49" height="125" as="geometry" />
@@ -494,10 +494,10 @@
           <mxGeometry x="2330" y="3757" width="49" height="157" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-329" value="查看使用统计" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2640.5" y="3615.5" width="49" height="158" as="geometry" />
+          <mxGeometry x="2550" y="3778" width="49" height="158" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-330" value="生成报表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2832" y="3632" width="49" height="125" as="geometry" />
+          <mxGeometry x="2650" y="3800" width="49" height="125" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-331" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="3007" y="3632" width="49" height="125" as="geometry" />
