@@ -1506,7 +1506,7 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-83" value="健康评分" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2980" y="6232" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-90" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-90" value="维护类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3356" y="6228" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-91" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1518,8 +1518,8 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-93" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3720" y="6228" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-94" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3237" y="6228" width="120" height="80" as="geometry" />
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-94" value="维护ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3236" y="6228" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
