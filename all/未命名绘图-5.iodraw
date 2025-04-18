@@ -1383,8 +1383,8 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-43" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2994" y="5580" width="126" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-44" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3004" y="5590" width="126" height="80" as="geometry" />
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-44" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3019" y="5600" width="126" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-45" value="驾驶证号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3019" y="5710" width="126" height="80" as="geometry" />
