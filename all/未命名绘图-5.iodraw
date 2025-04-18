@@ -1357,6 +1357,9 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-17" value="停放" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3693" y="5880" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-32" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3343" y="6040" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
