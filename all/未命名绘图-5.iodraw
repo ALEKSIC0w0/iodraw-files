@@ -1310,7 +1310,7 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-146" value="用户登录" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1208" y="3767" width="50" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-147" value="浏览车辆" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-147" value="浏览选择车辆" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1280" y="3767" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-148" value="查看车辆详情" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
