@@ -497,25 +497,25 @@
           <mxGeometry x="1910" y="3768" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-322" value="添加车辆" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="1986" y="3769" width="50" height="140" as="geometry" />
+          <mxGeometry x="1983" y="3769" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-323" value="修改车辆信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2056.5" y="3769" width="50" height="140" as="geometry" />
+          <mxGeometry x="2055" y="3769" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-324" value="删除车辆" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2131" y="3769" width="50" height="140" as="geometry" />
+          <mxGeometry x="2128" y="3769" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-326" value="查看订单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2213" y="3770" width="50" height="140" as="geometry" />
+          <mxGeometry x="2201" y="3770" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-327" value="处理异常情况" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2285" y="3768" width="50" height="140" as="geometry" />
+          <mxGeometry x="2273" y="3768" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-328" value="审核退还申请" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2358" y="3769" width="50" height="140" as="geometry" />
+          <mxGeometry x="2346" y="3769" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-329" value="查看使用统计" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="3770" width="50" height="140" as="geometry" />
+          <mxGeometry x="2418" y="3770" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-330" value="生成报表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="2491" y="3770" width="50" height="140" as="geometry" />
