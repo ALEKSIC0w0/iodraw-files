@@ -482,10 +482,10 @@
           <mxGeometry x="1850" y="3830" width="49" height="125" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-326" value="查看订单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2130" y="3757.5" width="49" height="125" as="geometry" />
+          <mxGeometry x="2200" y="3768" width="49" height="152" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-327" value="处理异常情况" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2225.5" y="3757" width="49" height="157" as="geometry" />
+          <mxGeometry x="2285" y="3768" width="49" height="157" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-328" value="审核退还申请" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="2370" y="3768" width="49" height="157" as="geometry" />
