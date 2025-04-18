@@ -491,7 +491,7 @@
           <mxGeometry x="1850" y="3830" width="49" height="125" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-326" value="查看订单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2200" y="3770" width="49" height="155" as="geometry" />
+          <mxGeometry x="2213" y="3770" width="49" height="155" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-327" value="处理异常情况" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="2285" y="3768" width="49" height="157" as="geometry" />
@@ -500,7 +500,7 @@
           <mxGeometry x="2358" y="3769" width="49" height="157" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-329" value="查看使用统计" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2550" y="3778" width="49" height="158" as="geometry" />
+          <mxGeometry x="2420" y="3770" width="49" height="158" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-330" value="生成报表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="2650" y="3800" width="49" height="125" as="geometry" />
