@@ -1268,7 +1268,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-133" value="账户管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1948" y="3493" width="49" height="140" as="geometry" />
+          <mxGeometry x="1163" y="3481" width="49" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-134" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-137" target="CO1TLyvKyXjXSFeLzIXF-148">
           <mxGeometry relative="1" as="geometry" />
@@ -1280,7 +1280,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-137" value="车辆信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2120" y="3488" width="49" height="140" as="geometry" />
+          <mxGeometry x="1335" y="3476" width="49" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-138" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-141" target="CO1TLyvKyXjXSFeLzIXF-149">
           <mxGeometry relative="1" as="geometry" />
@@ -1292,7 +1292,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-141" value="订单操作" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2291" y="3490" width="49" height="140" as="geometry" />
+          <mxGeometry x="1506" y="3478" width="49" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-142" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-144" target="CO1TLyvKyXjXSFeLzIXF-152">
           <mxGeometry relative="1" as="geometry" />
@@ -1301,34 +1301,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-144" value="数据报表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2463" y="3490" width="49" height="140" as="geometry" />
+          <mxGeometry x="1678" y="3478" width="49" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-145" value="管理用户账号" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="3778" width="50" height="140" as="geometry" />
+          <mxGeometry x="1135" y="3766" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-146" value="添加车辆" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1993" y="3779" width="50" height="140" as="geometry" />
+          <mxGeometry x="1208" y="3767" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-147" value="修改车辆信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2065" y="3779" width="50" height="140" as="geometry" />
+          <mxGeometry x="1280" y="3767" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-148" value="删除车辆" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2138" y="3779" width="50" height="140" as="geometry" />
+          <mxGeometry x="1353" y="3767" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-149" value="查看订单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2211" y="3780" width="50" height="140" as="geometry" />
+          <mxGeometry x="1426" y="3768" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-150" value="处理异常情况" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2283" y="3778" width="50" height="140" as="geometry" />
+          <mxGeometry x="1498" y="3766" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-151" value="审核退还申请" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2356" y="3779" width="50" height="140" as="geometry" />
+          <mxGeometry x="1571" y="3767" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-152" value="查看使用统计" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2428" y="3780" width="50" height="140" as="geometry" />
+          <mxGeometry x="1643" y="3768" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-153" value="生成报表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2501" y="3780" width="50" height="140" as="geometry" />
+          <mxGeometry x="1716" y="3768" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-154" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-156" target="CO1TLyvKyXjXSFeLzIXF-137">
           <mxGeometry relative="1" as="geometry" />
@@ -1337,7 +1337,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-156" value="管理员&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2206.5" y="3310" width="63.5" height="110" as="geometry" />
+          <mxGeometry x="1421.5" y="3298" width="63.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-157" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-141" target="CO1TLyvKyXjXSFeLzIXF-156">
           <mxGeometry relative="1" as="geometry" />
