@@ -491,10 +491,10 @@
           <mxGeometry x="1620" y="3797" width="49" height="158" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-324" value="删除车辆" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="1730" y="3810" width="49" height="126" as="geometry" />
+          <mxGeometry x="2058.5" y="3770" width="49" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-325" value="车辆列表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2139.5" y="3770" width="49" height="125" as="geometry" />
+          <mxGeometry x="2139.5" y="3770" width="49" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-326" value="查看订单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="2213" y="3770" width="49" height="155" as="geometry" />
