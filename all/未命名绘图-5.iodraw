@@ -463,7 +463,7 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-126" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-317" target="OOAIfnGAg7NGRrNu7tDg-323">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CO1TLyvKyXjXSFeLzIXF-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-317" target="OOAIfnGAg7NGRrNu7tDg-322">
+        <mxCell id="CO1TLyvKyXjXSFeLzIXF-128" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-317" target="OOAIfnGAg7NGRrNu7tDg-322">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-317" value="车辆信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
@@ -491,7 +491,7 @@
           <mxGeometry x="2453" y="3480" width="49" height="126" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-321" value="管理员账号" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="1116.5" y="3623.5" width="49" height="142" as="geometry" />
+          <mxGeometry x="1839" y="3779" width="49" height="142" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-322" value="添加车辆" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="1986" y="3769" width="49" height="150" as="geometry" />
@@ -516,11 +516,6 @@
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-330" value="生成报表" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="2491" y="3770" width="49" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="OOAIfnGAg7NGRrNu7tDg-339" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="OOAIfnGAg7NGRrNu7tDg-316" target="OOAIfnGAg7NGRrNu7tDg-321" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-116" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-352" target="OOAIfnGAg7NGRrNu7tDg-317">
           <mxGeometry relative="1" as="geometry" />
