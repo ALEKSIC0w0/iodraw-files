@@ -1306,7 +1306,7 @@
           <mxGeometry x="3188" y="5620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-6" value="租用/归还" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3320" y="5747" width="109" height="80" as="geometry" />
+          <mxGeometry x="3328.5" y="5747" width="109" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CO1TLyvKyXjXSFeLzIXF-13" target="CO1TLyvKyXjXSFeLzIXF-14">
           <mxGeometry relative="1" as="geometry" />
