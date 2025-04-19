@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="KJmKlM5swLjQqLtLYSai">
-    <mxGraphModel dx="2390" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1736,13 +1736,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uSelVcc93Z5DvUUgc3Q-147" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-107" target="_uSelVcc93Z5DvUUgc3Q-99">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1601" y="9801" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-148" value="归还车辆" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-87" target="_uSelVcc93Z5DvUUgc3Q-108">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1778,13 +1771,6 @@
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-113" target="_uSelVcc93Z5DvUUgc3Q-114">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_uSelVcc93Z5DvUUgc3Q-155" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.29;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-114" target="_uSelVcc93Z5DvUUgc3Q-99">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1950" y="9801" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-156" value="请求导航" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-87" target="_uSelVcc93Z5DvUUgc3Q-115">
@@ -1840,13 +1826,6 @@
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-164" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-121" target="_uSelVcc93Z5DvUUgc3Q-122">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_uSelVcc93Z5DvUUgc3Q-165" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.43;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-122" target="_uSelVcc93Z5DvUUgc3Q-99">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2351" y="9801" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
