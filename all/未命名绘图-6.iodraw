@@ -1373,7 +1373,7 @@
           <mxGeometry x="750" y="7220" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-8" value="存储令牌" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="740" y="7352" width="158" height="49" as="geometry" />
+          <mxGeometry x="757" y="7352" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-9" value="访问受保护资源" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="811" y="7451" width="172" height="49" as="geometry" />
