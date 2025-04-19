@@ -1344,7 +1344,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-1" value="用户访问" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="861.5" y="6520" width="124" height="49" as="geometry" />
+          <mxGeometry x="860" y="6570" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-2" target="_uSelVcc93Z5DvUUgc3Q-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1370,7 +1370,7 @@
           <mxGeometry x="759" y="7131" width="155" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-7" value="返回令牌给前端" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="750" y="7253" width="172" height="49" as="geometry" />
+          <mxGeometry x="750" y="7220" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-8" value="存储令牌" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="774" y="7352" width="124" height="49" as="geometry" />
