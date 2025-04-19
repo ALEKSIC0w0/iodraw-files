@@ -1549,10 +1549,10 @@
           <mxGeometry x="1499" y="9727" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-108" value="用户选择归还流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1856" y="9057" width="188" height="49" as="geometry" />
+          <mxGeometry x="1856" y="9107" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-109" value="选择目标停车点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1864" y="9158" width="172" height="49" as="geometry" />
+          <mxGeometry x="1864" y="9220" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-110" value="系统记录归还地点信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1840" y="9331" width="220" height="49" as="geometry" />
@@ -1730,13 +1730,6 @@
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-146" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-106" target="_uSelVcc93Z5DvUUgc3Q-107">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_uSelVcc93Z5DvUUgc3Q-148" value="归还车辆" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-87" target="_uSelVcc93Z5DvUUgc3Q-108">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1950" y="8972" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-108" target="_uSelVcc93Z5DvUUgc3Q-109">
