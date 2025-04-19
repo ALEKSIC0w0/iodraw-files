@@ -1425,8 +1425,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uSelVcc93Z5DvUUgc3Q-23" value="无效" style="startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=1;entryY=0.85;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-10" target="_uSelVcc93Z5DvUUgc3Q-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_uSelVcc93Z5DvUUgc3Q-23" value="无效" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.85;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-10" target="_uSelVcc93Z5DvUUgc3Q-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="7574" />
+              <mxPoint x="1140" y="6853" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
