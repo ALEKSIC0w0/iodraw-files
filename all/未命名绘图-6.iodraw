@@ -1346,6 +1346,14 @@
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-1" value="用户访问" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="861.5" y="6520" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="_uSelVcc93Z5DvUUgc3Q-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-2" target="_uSelVcc93Z5DvUUgc3Q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_uSelVcc93Z5DvUUgc3Q-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_uSelVcc93Z5DvUUgc3Q-24">
+          <mxGeometry x="0.0687" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-2" value="是否登录?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="864" y="6619" width="119" height="119" as="geometry" />
         </mxCell>
@@ -1381,7 +1389,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uSelVcc93Z5DvUUgc3Q-13" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-2" target="_uSelVcc93Z5DvUUgc3Q-3">
+        <mxCell id="_uSelVcc93Z5DvUUgc3Q-13" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-2" target="_uSelVcc93Z5DvUUgc3Q-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-3" target="_uSelVcc93Z5DvUUgc3Q-4">
