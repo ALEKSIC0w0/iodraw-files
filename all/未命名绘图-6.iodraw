@@ -1515,11 +1515,14 @@
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-97" value="从系统移除停车点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1178" y="9529" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="_uSelVcc93Z5DvUUgc3Q-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-98" target="_uSelVcc93Z5DvUUgc3Q-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-98" value="显示各停车点车辆数量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="952" y="9727" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-99" value="End" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1697" y="9826" width="86" height="49" as="geometry" />
+          <mxGeometry x="1020.5" y="9830" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-100" value="用户进入搜索界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1507" y="9008" width="188" height="49" as="geometry" />
@@ -1672,13 +1675,6 @@
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-136" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-92" target="_uSelVcc93Z5DvUUgc3Q-98">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_uSelVcc93Z5DvUUgc3Q-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.44;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-98" target="_uSelVcc93Z5DvUUgc3Q-99">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1062" y="9801" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-138" value="位置搜索" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-87" target="_uSelVcc93Z5DvUUgc3Q-100">
