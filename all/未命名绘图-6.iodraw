@@ -1522,7 +1522,7 @@
           <mxGeometry x="952" y="9727" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-99" value="End" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020.5" y="9830" width="86" height="49" as="geometry" />
+          <mxGeometry x="1019" y="9830" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-100" value="用户进入搜索界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1507" y="9008" width="188" height="49" as="geometry" />
@@ -1549,7 +1549,7 @@
           <mxGeometry x="1499" y="9727" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-108" value="用户选择归还流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1856" y="9008" width="188" height="49" as="geometry" />
+          <mxGeometry x="1856" y="9057" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-109" value="选择目标停车点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1864" y="9158" width="172" height="49" as="geometry" />
