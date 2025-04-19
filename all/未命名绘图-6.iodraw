@@ -1420,13 +1420,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uSelVcc93Z5DvUUgc3Q-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.67;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-2" target="_uSelVcc93Z5DvUUgc3Q-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="957" y="6775" />
-              <mxPoint x="957" y="7426" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="_uSelVcc93Z5DvUUgc3Q-20" value="是" style="startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.67;entryY=0;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-2" target="_uSelVcc93Z5DvUUgc3Q-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-9" target="_uSelVcc93Z5DvUUgc3Q-10">
           <mxGeometry relative="1" as="geometry">
@@ -1440,13 +1435,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uSelVcc93Z5DvUUgc3Q-23" value="无效" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=1;entryY=0.85;rounded=0;fontSize=18;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-10" target="_uSelVcc93Z5DvUUgc3Q-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1037" y="7525" />
-              <mxPoint x="1037" y="6885" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="_uSelVcc93Z5DvUUgc3Q-23" value="无效" style="startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=1;entryY=0.85;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="_uSelVcc93Z5DvUUgc3Q-10" target="_uSelVcc93Z5DvUUgc3Q-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
