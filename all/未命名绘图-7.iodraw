@@ -1144,7 +1144,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-133" value="个人信息管理" style="strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1008" y="3576" width="152" height="49" as="geometry" />
+          <mxGeometry x="1017" y="3490" width="152" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-134" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CO1TLyvKyXjXSFeLzIXF-141" target="CO1TLyvKyXjXSFeLzIXF-148" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1181,7 +1181,7 @@
           <mxGeometry x="1357" y="3505" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-146" value="用户登录" style="strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1157" y="3450" width="140" height="50" as="geometry" />
+          <mxGeometry x="1241" y="3400" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-147" value="浏览选择车辆" style="strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1297" y="3625" width="140" height="50" as="geometry" />
