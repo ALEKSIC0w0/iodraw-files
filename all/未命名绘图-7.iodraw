@@ -458,7 +458,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-316" value="账户管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1938" y="3483" width="49" height="140" as="geometry" />
+          <mxGeometry x="2120" y="3270" width="49" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-124" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OOAIfnGAg7NGRrNu7tDg-317" target="OOAIfnGAg7NGRrNu7tDg-324" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -494,7 +494,7 @@
           <mxGeometry x="2457.5" y="3500" width="49" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-321" value="管理用户账号" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1910" y="3768" width="50" height="140" as="geometry" />
+          <mxGeometry x="2357" y="3210" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-322" value="添加车辆" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1983" y="3769" width="50" height="140" as="geometry" />
@@ -527,7 +527,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-352" value="管理员&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2196.5" y="3300" width="63.5" height="110" as="geometry" />
+          <mxGeometry x="1722.5" y="3640" width="63.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-424" value="服务端: Server, 即服务器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3755" y="4660" width="729" height="583" as="geometry" />
