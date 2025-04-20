@@ -1196,13 +1196,13 @@
           <mxGeometry x="1401" y="3760" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-151" value="退还押金" style="strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="3835" width="140" height="50" as="geometry" />
+          <mxGeometry x="1284.5" y="3815" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-152" value="查看历史订单" style="strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1297" y="4045" width="140" height="50" as="geometry" />
+          <mxGeometry x="1171" y="3870" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-153" value="联系管理员" style="strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1261" y="3940" width="140" height="50" as="geometry" />
+          <mxGeometry x="1088" y="4050" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-155" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CO1TLyvKyXjXSFeLzIXF-156" target="CO1TLyvKyXjXSFeLzIXF-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
