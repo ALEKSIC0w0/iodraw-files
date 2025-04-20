@@ -1166,7 +1166,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-141" value="租车流程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1421.5" y="3480" width="49" height="140" as="geometry" />
+          <mxGeometry x="1051" y="3660" width="49" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-142" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CO1TLyvKyXjXSFeLzIXF-144" target="CO1TLyvKyXjXSFeLzIXF-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1208,7 +1208,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-156" value="用户&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1421.5" y="3298" width="63.5" height="110" as="geometry" />
+          <mxGeometry x="827" y="3700" width="63.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-157" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="CO1TLyvKyXjXSFeLzIXF-141" target="CO1TLyvKyXjXSFeLzIXF-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
