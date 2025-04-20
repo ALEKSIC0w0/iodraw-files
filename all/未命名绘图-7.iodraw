@@ -494,7 +494,7 @@
           <mxGeometry x="2011" y="3890" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-321" value="管理用户账号" style="whiteSpace=wrap;strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;shape=ellipse;perimeter=ellipsePerimeter;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2160" y="3300" width="140" height="50" as="geometry" />
+          <mxGeometry x="2175" y="3300" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-322" value="添加车辆" style="whiteSpace=wrap;strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;shape=ellipse;perimeter=ellipsePerimeter;html=1;" parent="1" vertex="1">
           <mxGeometry x="2267" y="3425" width="140" height="50" as="geometry" />
@@ -515,7 +515,7 @@
           <mxGeometry x="2262" y="3770" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-329" value="查看使用统计" style="whiteSpace=wrap;strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;shape=ellipse;perimeter=ellipsePerimeter;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2180" y="3950" width="140" height="50" as="geometry" />
+          <mxGeometry x="2212" y="3939" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-330" value="生成报表" style="whiteSpace=wrap;strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;shape=ellipse;perimeter=ellipsePerimeter;html=1;" parent="1" vertex="1">
           <mxGeometry x="2230" y="3865" width="140" height="50" as="geometry" />
