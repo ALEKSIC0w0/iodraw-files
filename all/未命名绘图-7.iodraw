@@ -457,6 +457,9 @@
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-129" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OOAIfnGAg7NGRrNu7tDg-316" target="OOAIfnGAg7NGRrNu7tDg-321" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NPRZ7B3CR14AgfckCFTU-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOAIfnGAg7NGRrNu7tDg-316" target="NPRZ7B3CR14AgfckCFTU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-316" value="账户管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;shape=ellipse;perimeter=ellipsePerimeter;html=1;" parent="1" vertex="1">
           <mxGeometry x="1938" y="3410" width="140" height="49" as="geometry" />
         </mxCell>
@@ -1823,8 +1826,8 @@
         <mxCell id="_uSelVcc93Z5DvUUgc3Q-167" value="End" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1907" y="9830" width="86" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NPRZ7B3CR14AgfckCFTU-4" value="管理用户账号" style="whiteSpace=wrap;strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="3370" width="140" height="50" as="geometry" />
+        <mxCell id="NPRZ7B3CR14AgfckCFTU-4" value="新增管理员账号" style="whiteSpace=wrap;strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="3370" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
