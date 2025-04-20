@@ -1199,10 +1199,10 @@
           <mxGeometry x="1173" y="3790" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-152" value="查看历史订单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1643" y="3768" width="50" height="140" as="geometry" />
+          <mxGeometry x="1342" y="4000" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-153" value="联系管理员" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1716" y="3768" width="50" height="140" as="geometry" />
+          <mxGeometry x="1449" y="3980" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-155" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CO1TLyvKyXjXSFeLzIXF-156" target="CO1TLyvKyXjXSFeLzIXF-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
