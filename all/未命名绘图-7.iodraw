@@ -2368,7 +2368,7 @@
           <mxGeometry x="4403" y="12974" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NPRZ7B3CR14AgfckCFTU-266" value="系统记录归还地点信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4625" y="12974" width="220" height="49" as="geometry" />
+          <mxGeometry x="4623" y="12974" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NPRZ7B3CR14AgfckCFTU-267" value="用户前往停车点" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4649" y="13073" width="172" height="49" as="geometry" />
