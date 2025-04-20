@@ -1166,7 +1166,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-141" value="租车流程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=east;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1005.5" y="3705.5" width="140" height="49" as="geometry" />
+          <mxGeometry x="1006" y="3710" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-142" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CO1TLyvKyXjXSFeLzIXF-144" target="CO1TLyvKyXjXSFeLzIXF-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
