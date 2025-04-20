@@ -1178,10 +1178,10 @@
           <mxGeometry x="962.5" y="3905.5" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-145" value="用户注册" style="strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1268" y="3478" width="140" height="50" as="geometry" />
+          <mxGeometry x="1262" y="3478" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-146" value="用户登录" style="strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1241" y="3400" width="140" height="50" as="geometry" />
+          <mxGeometry x="1220" y="3410" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CO1TLyvKyXjXSFeLzIXF-147" value="浏览选择车辆" style="strokeWidth=2;textDirection=ltr;direction=east;flipH=0;flipV=1;fontSize=20;rounded=0;glass=0;shape=ellipse;perimeter=ellipsePerimeter;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1278" y="3568" width="140" height="50" as="geometry" />
