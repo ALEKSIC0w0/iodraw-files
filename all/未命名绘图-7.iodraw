@@ -2353,7 +2353,7 @@
           <mxGeometry x="4501" y="12280" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="NPRZ7B3CR14AgfckCFTU-261" value="提示用户前往指定停车点" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4248" y="12498" width="236" height="49" as="geometry" />
+          <mxGeometry x="4232" y="12498" width="252" height="51" as="geometry" />
         </mxCell>
         <mxCell id="NPRZ7B3CR14AgfckCFTU-262" value="显示附近停车点" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4534" y="12498" width="172" height="49" as="geometry" />
