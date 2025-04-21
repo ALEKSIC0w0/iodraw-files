@@ -2553,13 +2553,13 @@
           <mxGeometry x="917" y="13545" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-16" value="用户选择" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1031" y="13663" width="113" height="113" as="geometry" />
+          <mxGeometry x="1027" y="13610" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-17" value="连接客服处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1010" y="13833" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-18" value="客服协助处理问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1022" y="13965" width="188" height="49" as="geometry" />
+          <mxGeometry x="1022" y="13928" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-19" value="" style="startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-1" target="8TsX0FxiMwAjiKjueUBm-2">
           <mxGeometry relative="1" as="geometry" />
@@ -2640,7 +2640,7 @@
         <mxCell id="8TsX0FxiMwAjiKjueUBm-38" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-18" target="8TsX0FxiMwAjiKjueUBm-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="13992" />
+              <mxPoint x="890" y="13952" />
               <mxPoint x="890" y="13379" />
               <mxPoint x="940" y="13379" />
             </Array>
