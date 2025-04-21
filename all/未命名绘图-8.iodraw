@@ -2522,11 +2522,14 @@
         <mxCell id="8TsX0FxiMwAjiKjueUBm-5" value="管理员审核" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="908" y="13244" width="129" height="129" as="geometry" />
         </mxCell>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-7" target="8TsX0FxiMwAjiKjueUBm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-7" value="系统计算实际租金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="573" y="13370" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-9" value="系统退还多余租金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="448" y="13692" width="188" height="49" as="geometry" />
+          <mxGeometry x="573" y="13468" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-11" value="更新订单状态为已完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="551" y="13791" width="220" height="49" as="geometry" />
@@ -2579,7 +2582,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-28" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-9" target="8TsX0FxiMwAjiKjueUBm-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="667" y="13791" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-11" target="8TsX0FxiMwAjiKjueUBm-12">
           <mxGeometry relative="1" as="geometry">
