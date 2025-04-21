@@ -2559,7 +2559,7 @@
           <mxGeometry x="1006" y="13775" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-18" value="客服协助处理问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1022" y="13928" width="188" height="49" as="geometry" />
+          <mxGeometry x="1019" y="13880" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-19" value="" style="startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-1" target="8TsX0FxiMwAjiKjueUBm-2">
           <mxGeometry relative="1" as="geometry" />
@@ -2610,8 +2610,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1140" y="13664" />
-              <mxPoint x="1212" y="13664" />
-              <mxPoint x="1212" y="13010" />
+              <mxPoint x="1195" y="13664" />
+              <mxPoint x="1195" y="13010" />
               <mxPoint x="1135" y="13010" />
             </Array>
           </mxGeometry>
@@ -2625,7 +2625,8 @@
         <mxCell id="8TsX0FxiMwAjiKjueUBm-38" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-18" target="8TsX0FxiMwAjiKjueUBm-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="13952" />
+              <mxPoint x="1019" y="13910" />
+              <mxPoint x="890" y="13910" />
               <mxPoint x="890" y="13379" />
               <mxPoint x="940" y="13379" />
             </Array>
