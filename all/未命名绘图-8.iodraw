@@ -2523,7 +2523,7 @@
           <mxGeometry x="908" y="13244" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-7" value="系统计算实际租金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="572" y="13446" width="188" height="49" as="geometry" />
+          <mxGeometry x="573" y="13370" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-8" value="是否需要退款?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="591" y="13545" width="151" height="151" as="geometry" />
@@ -2629,8 +2629,7 @@
               <mxPoint x="1140" y="13664" />
               <mxPoint x="1212" y="13664" />
               <mxPoint x="1212" y="13010" />
-              <mxPoint x="1182" y="13010" />
-              <mxPoint x="1182" y="12874" />
+              <mxPoint x="1135" y="13010" />
             </Array>
           </mxGeometry>
         </mxCell>
