@@ -2623,10 +2623,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-35" value="重新归还" style="startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0.68;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-16" target="8TsX0FxiMwAjiKjueUBm-1">
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-35" value="重新归还" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.68;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-16" target="8TsX0FxiMwAjiKjueUBm-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1212" y="13633" />
+              <mxPoint x="1140" y="13664" />
+              <mxPoint x="1212" y="13664" />
               <mxPoint x="1212" y="13269" />
               <mxPoint x="1122" y="13269" />
             </Array>
