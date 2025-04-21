@@ -2623,10 +2623,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-34" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.16;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-15" target="8TsX0FxiMwAjiKjueUBm-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1019" y="13728" />
+              <mxPoint x="1065" y="13728" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-35" value="重新归还" style="startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0.68;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-16" target="8TsX0FxiMwAjiKjueUBm-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1318" y="13686" />
+              <mxPoint x="1318" y="13269" />
+              <mxPoint x="1122" y="13269" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-36" value="联系客服" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-16" target="8TsX0FxiMwAjiKjueUBm-17">
           <mxGeometry relative="1" as="geometry" />
