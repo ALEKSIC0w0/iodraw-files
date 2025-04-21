@@ -2537,6 +2537,9 @@
         <mxCell id="8TsX0FxiMwAjiKjueUBm-11" value="更新订单状态为已完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="556" y="13868" width="220" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-12" target="8TsX0FxiMwAjiKjueUBm-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-12" value="发送归还成功通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="572" y="13967" width="188" height="49" as="geometry" />
         </mxCell>
@@ -2642,6 +2645,9 @@
               <mxPoint x="940" y="13379" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-39" value="车辆状态更新为可用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="562" y="14061" width="204" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
