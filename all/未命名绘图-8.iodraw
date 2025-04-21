@@ -2522,9 +2522,6 @@
         <mxCell id="8TsX0FxiMwAjiKjueUBm-5" value="管理员审核" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="908" y="13244" width="129" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-6" value="车辆状态更新为可用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="564" y="13446" width="204" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-7" value="系统计算实际租金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="572" y="13545" width="188" height="49" as="geometry" />
         </mxCell>
@@ -2579,12 +2576,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-23" value="通过" style="startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-5" target="8TsX0FxiMwAjiKjueUBm-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-6" target="8TsX0FxiMwAjiKjueUBm-7">
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-23" value="通过" style="startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-5">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="666" y="13446" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-7" target="8TsX0FxiMwAjiKjueUBm-8">
