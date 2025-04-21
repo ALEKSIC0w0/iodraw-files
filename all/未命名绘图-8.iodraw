@@ -2541,7 +2541,7 @@
           <mxGeometry x="572" y="13967" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-13" value="结束归还流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="588" y="14066" width="156" height="49" as="geometry" />
+          <mxGeometry x="586" y="14173" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-14" value="通知用户归还失败" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="925" y="13446" width="188" height="49" as="geometry" />
@@ -2599,11 +2599,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-11" target="8TsX0FxiMwAjiKjueUBm-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-12" target="8TsX0FxiMwAjiKjueUBm-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
