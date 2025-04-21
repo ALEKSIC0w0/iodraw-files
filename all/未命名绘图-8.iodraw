@@ -2561,12 +2561,8 @@
         <mxCell id="8TsX0FxiMwAjiKjueUBm-18" value="客服协助处理问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1050" y="13967" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-1" target="8TsX0FxiMwAjiKjueUBm-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="973" y="12899" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-19" value="" style="startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-1" target="8TsX0FxiMwAjiKjueUBm-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-2" target="8TsX0FxiMwAjiKjueUBm-3">
           <mxGeometry relative="1" as="geometry">
@@ -2583,12 +2579,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-23" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-5" target="8TsX0FxiMwAjiKjueUBm-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="666" y="13410" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-23" value="通过" style="startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-5" target="8TsX0FxiMwAjiKjueUBm-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-6" target="8TsX0FxiMwAjiKjueUBm-7">
           <mxGeometry relative="1" as="geometry">
@@ -2600,33 +2592,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-26" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-8" target="8TsX0FxiMwAjiKjueUBm-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="547" y="13832" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-26" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-8" target="8TsX0FxiMwAjiKjueUBm-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-27" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-8" target="8TsX0FxiMwAjiKjueUBm-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="785" y="13832" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-27" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-8" target="8TsX0FxiMwAjiKjueUBm-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-9" target="8TsX0FxiMwAjiKjueUBm-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="547" y="13942" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-28" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-9" target="8TsX0FxiMwAjiKjueUBm-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-10" target="8TsX0FxiMwAjiKjueUBm-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="785" y="13942" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-29" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-10" target="8TsX0FxiMwAjiKjueUBm-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-11" target="8TsX0FxiMwAjiKjueUBm-12">
           <mxGeometry relative="1" as="geometry">
@@ -2638,52 +2614,28 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-32" value="不通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-5" target="8TsX0FxiMwAjiKjueUBm-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1019" y="13410" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-32" value="不通过" style="startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-5" target="8TsX0FxiMwAjiKjueUBm-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-14" target="8TsX0FxiMwAjiKjueUBm-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.16;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-15" target="8TsX0FxiMwAjiKjueUBm-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1019" y="13619" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-34" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.16;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-15" target="8TsX0FxiMwAjiKjueUBm-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-35" value="重新归还" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0.68;entryY=1;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-16" target="8TsX0FxiMwAjiKjueUBm-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1156" y="13619" />
-              <mxPoint x="1156" y="12899" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-35" value="重新归还" style="startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0.68;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-16" target="8TsX0FxiMwAjiKjueUBm-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-36" value="联系客服" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-16" target="8TsX0FxiMwAjiKjueUBm-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-36" value="联系客服" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-16" target="8TsX0FxiMwAjiKjueUBm-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-17" target="8TsX0FxiMwAjiKjueUBm-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1088" y="13942" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-37" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.35;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-17" target="8TsX0FxiMwAjiKjueUBm-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8TsX0FxiMwAjiKjueUBm-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=1;entryY=0.7;rounded=0;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-18" target="8TsX0FxiMwAjiKjueUBm-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1223" y="13942" />
-              <mxPoint x="1223" y="13410" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8TsX0FxiMwAjiKjueUBm-38" value="" style="startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=1;entryY=0.7;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8TsX0FxiMwAjiKjueUBm-18" target="8TsX0FxiMwAjiKjueUBm-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
