@@ -2598,7 +2598,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-17" value="统计分析模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="131" width="50" height="120" as="geometry" />
+          <mxGeometry x="2255" y="147" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
