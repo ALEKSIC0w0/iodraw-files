@@ -8,10 +8,10 @@
           <mxGeometry x="1300" y="355" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-33" value="浏览可用车辆列表" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1593" y="360" width="50" height="120" as="geometry" />
+          <mxGeometry x="1660" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-34" value="查看车辆健康评分" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1667" y="360" width="50" height="120" as="geometry" />
+          <mxGeometry x="1736" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-35" value="预订车辆" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1813" y="360" width="50" height="120" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="2147" y="364" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-42" value="管理车辆信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="360" width="50" height="120" as="geometry" />
+          <mxGeometry x="1587" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-43" value="管理订单信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2220" y="369" width="50" height="120" as="geometry" />
