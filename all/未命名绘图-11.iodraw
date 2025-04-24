@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-146" value="共享汽车租赁系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1951" y="-60" width="200" height="60" as="geometry" />
+          <mxGeometry x="1703" y="-92" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-152" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="OOAIfnGAg7NGRrNu7tDg-33" target="OOAIfnGAg7NGRrNu7tDg-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-164" value="管理用户信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="361" width="50" height="120" as="geometry" />
+          <mxGeometry x="1455" y="347" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-234" value="用户&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="2066" y="2660" width="30" height="60" as="geometry" />
