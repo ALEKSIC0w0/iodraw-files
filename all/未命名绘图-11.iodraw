@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-31" value="普通用户注册/登录" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1392" y="354" width="50" height="120" as="geometry" />
+          <mxGeometry x="1300" y="355" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-33" value="浏览可用车辆列表" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1590" y="360" width="50" height="120" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-164" value="管理用户信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="347" width="50" height="120" as="geometry" />
+          <mxGeometry x="1418" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-234" value="用户&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="2066" y="2660" width="30" height="60" as="geometry" />
@@ -2573,6 +2573,9 @@
         </mxCell>
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-7" value="订单管理模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2010" y="120" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o1VHLR3BLxuMbm9EDz3c-12" value="车辆管理模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="97" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
