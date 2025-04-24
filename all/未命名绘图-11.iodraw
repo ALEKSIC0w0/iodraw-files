@@ -2563,7 +2563,7 @@
           <mxGeometry x="1730" y="112" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-7" value="订单管理模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1955" y="112" width="50" height="120" as="geometry" />
+          <mxGeometry x="2010" y="120" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
