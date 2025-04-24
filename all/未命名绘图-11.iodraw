@@ -17,10 +17,10 @@
           <mxGeometry x="1770" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-36" value="支付/取消订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1860" y="360" width="50" height="120" as="geometry" />
+          <mxGeometry x="1883" y="519" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-38" value="归还车辆" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1950" y="360" width="50" height="120" as="geometry" />
+          <mxGeometry x="1867" y="360" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-39" value="查看订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2040" y="360" width="50" height="120" as="geometry" />
@@ -2545,6 +2545,15 @@
           <mxGeometry x="614.5" y="13769" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-1" target="OOAIfnGAg7NGRrNu7tDg-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1VHLR3BLxuMbm9EDz3c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-1" target="OOAIfnGAg7NGRrNu7tDg-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1VHLR3BLxuMbm9EDz3c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-1" target="OOAIfnGAg7NGRrNu7tDg-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1VHLR3BLxuMbm9EDz3c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-1" target="OOAIfnGAg7NGRrNu7tDg-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-1" value="车辆管理模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" vertex="1" parent="1">
