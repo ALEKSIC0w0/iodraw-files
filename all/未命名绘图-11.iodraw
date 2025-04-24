@@ -2576,7 +2576,7 @@
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-7" target="OOAIfnGAg7NGRrNu7tDg-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o1VHLR3BLxuMbm9EDz3c-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-7" target="OOAIfnGAg7NGRrNu7tDg-41">
+        <mxCell id="o1VHLR3BLxuMbm9EDz3c-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-7" target="OOAIfnGAg7NGRrNu7tDg-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-7" target="OOAIfnGAg7NGRrNu7tDg-43">
@@ -2585,7 +2585,7 @@
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-7" value="订单管理模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2010" y="120" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="o1VHLR3BLxuMbm9EDz3c-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-12" target="OOAIfnGAg7NGRrNu7tDg-31">
+        <mxCell id="o1VHLR3BLxuMbm9EDz3c-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-12" target="OOAIfnGAg7NGRrNu7tDg-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-12" target="OOAIfnGAg7NGRrNu7tDg-164">
