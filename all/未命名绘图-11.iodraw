@@ -35,7 +35,7 @@
           <mxGeometry x="2247" y="361" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-44" value="生成统计报表" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2419" y="370" width="50" height="120" as="geometry" />
+          <mxGeometry x="2395" y="364" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-59" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="879" y="430" width="58" height="34" as="geometry" />
@@ -2570,7 +2570,7 @@
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-1" value="车辆管理模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1730" y="112" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="o1VHLR3BLxuMbm9EDz3c-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-7" target="OOAIfnGAg7NGRrNu7tDg-36">
+        <mxCell id="o1VHLR3BLxuMbm9EDz3c-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-7" target="OOAIfnGAg7NGRrNu7tDg-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o1VHLR3BLxuMbm9EDz3c-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1VHLR3BLxuMbm9EDz3c-7" target="OOAIfnGAg7NGRrNu7tDg-39">
