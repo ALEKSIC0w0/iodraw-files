@@ -276,6 +276,11 @@
             <mxPoint x="2250" y="210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OOAIfnGAg7NGRrNu7tDg-147" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OOAIfnGAg7NGRrNu7tDg-146" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OOAIfnGAg7NGRrNu7tDg-148" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OOAIfnGAg7NGRrNu7tDg-146" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2250" y="150" as="targetPoint" />
@@ -2598,6 +2603,9 @@
         </mxCell>
         <mxCell id="8TsX0FxiMwAjiKjueUBm-39" value="车辆状态更新为可用" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="614.5" y="13769" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="o1VHLR3BLxuMbm9EDz3c-1" value="普通用户注册/登录" style="whiteSpace=wrap;strokeWidth=2;direction=south;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="370" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
